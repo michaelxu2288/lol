@@ -1,0 +1,7 @@
+Mirror in progress since Sun, 17 Sep 2023 19:43:02 .. please wait!
+httrack https://andrew-bork.github.io/ 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=25879
+UID=501
+GID=501
+START=1694997782
